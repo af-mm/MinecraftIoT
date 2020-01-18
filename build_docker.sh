@@ -1,1 +1,1 @@
-sudo docker build -t afmm/minecraft-iot:1.0 .
+docker build -t afmm/minecraft-iot:1.0 .
